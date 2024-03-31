@@ -1,0 +1,17 @@
+var studna = 'Shiraz Ali';
+var totalmarks = 500;
+var obtainmarks = 367;
+console.log("Student Name:" + studna);
+console.log("Total Marks:" + totalmarks);
+console.log("Obtain Marks:" + obtainmarks);
+var eng = 68;
+var calculas = 76;
+var DMS = 77;
+var PF = 68;
+var ICT = 78;
+console.log("ENGLISH:" + eng);
+console.log("Calculas and analytical geometry:" + calculas);
+console.log("Discreete Mathematics:" + DMS);
+console.log("Programming Fundamental:" + PF);
+console.log("Information Communication Technology:" + ICT);
+console.log("Percentage:" + obtainmarks / totalmarks * 100);
